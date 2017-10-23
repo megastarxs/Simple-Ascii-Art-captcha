@@ -5,7 +5,8 @@ This project uses textual Ascii art instead of normal images with text for captc
 
 
 ## Usage
-`npm run start` 
+To install the dependent node_modules `npm install` 
+To start the server `npm run start` 
 
 Upon hittin http://localhost:3000/
 
