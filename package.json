@@ -1,5 +1,5 @@
 {
-  "name": "webtask-everywhere",
+  "name": "ascii-captcha",
   "version": "1.0.0",
   "description": "",
   "main": "lib/index.js",
@@ -33,7 +33,6 @@
   "dependencies": {
     "express": "^4.16.2",
     "figlet": "^1.2.0",
-    "joi": "^7.1.0",
     "lodash": "^3.10.1"
   }
 }
